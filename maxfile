@@ -1,0 +1,4 @@
+i = 0
+for ch in s:
+    print(ch, "[", i, "]")
+    i =  i+1;
